@@ -17,3 +17,4 @@ Next Hope Command
 R1
 -----
 ip route 192.168.2.0 255.255.255.0 12.0.0.2
+![Static Routing](https://user-images.githubusercontent.com/106605770/178121084-0e2ad450-18aa-4b57-97d7-339d878af627.png)
